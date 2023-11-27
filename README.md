@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Dawid</h1>
-<h3 align="center">I am a second year computer science student, a future web developer.</h3>
+<h3 align="center">I am a second year computer science student, a Python developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dawant&label=Profile%20views&color=0e75b6&style=flat" alt="dawant" /> </p>
 
